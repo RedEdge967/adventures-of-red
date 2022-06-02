@@ -32,6 +32,12 @@
 ## Questions?
 - If you have any doughts reguarding this project, ask any questions in discussions
 
+## License
+- This project is licensed under MIT license
+- Read more about it [here](https://github.com/RedEdge967/adventures-of-red/blob/master/LICENSE).
+
+Copyright (c) 2022 Chandula Janith
+
 
 
 
