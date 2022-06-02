@@ -7,6 +7,11 @@
 - In this you just have to kill one enemy and collect 20 coins.
 - You can edit this game with GDevelop.
 
+## Features
+- Can run in the browser
+- Can edit with GDevelop
+- Can edit with a code editor
+
 ## Running
 - This game is only made with html5 and javascript, so you can run this game in your browser
 - go to https://rededge.is-a.dev/adventures-of-red/
