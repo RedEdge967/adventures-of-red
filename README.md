@@ -6,6 +6,7 @@
 - Adventures of Red is a little platformer game I made within just 4 hours.
 - In this you just have to kill one enemy and collect 20 coins.
 - You can edit this game with GDevelop.
+- You need a pc or a laptop keybaord to play this game.
 
 ## Features
 - Can run in the browser
