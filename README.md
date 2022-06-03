@@ -18,20 +18,18 @@
 - go to https://rededge.is-a.dev/adventures-of-red/
 
 ## Installing and Running
-- download adventures_of_redx64_windows.exe to install this game on windows
+- download `adventures_of_redx64_windows.exe` to install this game on windows
   - After downloading, double click on the setup to install and run
-- download adventures_of_red_macos.zip to install this on Mac
+
+- download `adventures_of_red_macos.zip` to install this on Mac
   - After downloading, extract the archive and double click on the app to launch it
-- download adventures_of_red.json to edit this game with GDevelop
-  - After downloading, open it with GDevelop desktop app or web version
 
 > ##### Note: When launching the game on Windows and macOS, you might get a notice about security. Choose to run the game anyway. On macOS, you may need to open Security and Privacy tab in System Preferences.
 
-## To edit
-- To edit this game, you need GDevelop app or web version
-- Download the json file from releases (not yet released. will release soon)
-- and open it with GDevelop
-- and start editing
+## Editing with GDevelop
+- download `adventures_of_red.json` to edit this game with GDevelop
+- download GDevelop desktop app
+- open the downloaded file with GDevelop
 
 ## Support this game
 - If you think this game is good, support this project by starring and sharing this project with your friends
