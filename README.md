@@ -51,6 +51,8 @@
 
 Copyright (c) 2022 Chandula Janith
 
+- find me on [Liluo.io](https://liluo.io/Doctor_Strange).
+- Play this game on [Liluo.io](https://liluo.io/doctor_strange/adventures-of-red).
 
 
 
