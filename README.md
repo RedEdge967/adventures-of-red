@@ -17,8 +17,13 @@
 - This game is only made with html5 and javascript, so you can run this game in your browser
 - go to https://rededge.is-a.dev/adventures-of-red/
 
+### Released Setups
+- [x] Windows `exe`file
+- [x] Mac `archieved` file
+- [ ] Linux `AppImage`
+
 ## Installing and Running
-- download `adventures_of_redx64_windows.exe` to install this game on windows
+- download `adventures_of_redx64_windows.exe` to install this game on windows (you need a 64 bit pc to run this game)
   - After downloading, double click on the setup to install and run
 
 - download `adventures_of_red_macos.zip` to install this on Mac
