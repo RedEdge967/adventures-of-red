@@ -9,13 +9,23 @@
 
 ## Features
 - Can run in the browser
+- Can run it with installing it
 - Can edit with GDevelop
 - Can edit with a code editor
 
 ## Running
 - This game is only made with html5 and javascript, so you can run this game in your browser
 - go to https://rededge.is-a.dev/adventures-of-red/
-- If any executable setups needed, I will release them in a new release
+
+## Installing and Running
+- download adventures_of_redx64_windows.exe to install this game on windows
+  - After downloading, double click on the setup to install and run
+- download adventures_of_red_macos.zip to install this on Mac
+  - After downloading, extract the archive and double click on the app to launch it
+- download adventures_of_red.json to edit this game with GDevelop
+  - After downloading, open it with GDevelop desktop app or web version
+
+> ##### Note: When launching the game on Windows and macOS, you might get a notice about security. Choose to run the game anyway. On macOS, you may need to open Security and Privacy tab in System Preferences.
 
 ## To edit
 - To edit this game, you need GDevelop app or web version
