@@ -8,22 +8,22 @@
 - You can edit this game with GDevelop.
 - You need a pc or a laptop with a keyboard to play this game.
 
-## Features
+## Features 🌟
 - Can run in the browser
 - Can run it with installing it
 - Can edit with GDevelop
 - Can edit with a code editor
 
-## Running
+## Running 💻
 - This game is only made with html5 and javascript, so you can run this game in your browser
 - go to https://rededge.is-a.dev/adventures-of-red/
 
-### Released Setups
+### Released Setups 📦
 - [x] Windows `exe`file
 - [x] Mac `archieved` file
 - [ ] Linux `AppImage`
 
-## Installing and Running
+## Installing and Running 📥
 - download `adventures_of_redx64_windows.exe` to install this game on windows (you need a 64 bit pc to run this game)
   - After downloading, double click on the setup to install and run
 
@@ -32,21 +32,21 @@
 
 > ##### Note: When launching the game on Windows and macOS, you might get a notice about security. Choose to run the game anyway. On macOS, you may need to open Security and Privacy tab in System Preferences.
 
-## Editing with GDevelop
+## Editing with GDevelop 📝
 - download `adventures_of_red.json` to edit this game with GDevelop
 - download GDevelop desktop app
 - open the downloaded file with GDevelop
 
-## Support this game
+## Support this game 🤝
 - If you think this game is good, support this project by starring and sharing this project with your friends
 
-## Can I contribute?
+## Can I contribute? ✍️
 - Sure. Open an issue, point out errors and what not? wanna fix something yourself? open a PR and I really appreciate it
 
-## Questions?
+## Questions? ❓
 - If you have any doughts reguarding this project, ask any questions in discussions
 
-## License
+## License ⚖️
 - This project is licensed under MIT license
 - Read more about it [here](https://github.com/RedEdge967/adventures-of-red/blob/master/LICENSE).
 
